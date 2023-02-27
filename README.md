@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mukund Kukreja.
-- 👀 I’m interested in Software & Mobile App Development.
-- 🌱 I’m currently learning Flutter framework for Mobile App Development.
-- 💞️ I’m looking to collaborate on coding projects consisting of python/dart programming.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning C++.
+- 🤝 I’m looking to collaborate on coding projects consisting of Python/C++ programming.
 - 📫 You can email me at kukrejamukund20@gmail.com :D
 
 <!---
