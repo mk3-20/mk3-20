@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Mukund Kukreja.
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning C++.
-- 🤝 I’m looking to collaborate on coding projects consisting of Python/C++ programming.
+- 👋 Hello, I’m Mukund Kukreja.
+- 👀 I’m interested in Software Development (Qt Framework - Python/C++)
 - 📫 You can email me at kukrejamukund20@gmail.com :D
 
 <!---
