@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Mukund Kukreja.
-- 👀 I’m interested in Software Development (Qt Framework - Python/C++)
+- 👀 I’m interested in Software Development
 - 📫 You can email me at kukrejamukund20@gmail.com :D
 
 <!---
